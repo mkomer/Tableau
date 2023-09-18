@@ -1,9 +1,5 @@
 # Tableau Developer Tool Testing Project Work
-### My name is Mike Komer. I work as a Tableau Developer and am a Tableau Community Ambassador. 
-Here I will be sharing some of my project work and testing Dev tools and outputs. 
-
-Tableau Developer program is free to join and open to everyone:
-https://www.tableau.com/developer
+### My name is Mike Komer. I work as a Tableau Developer and am a Tableau Community Ambassador. Here I will be sharing some of my project work and testing Dev tools and outputs. 
 
 I created a custom site via Github codespace and embedded a Tableau Dashboard 
 
