@@ -8,7 +8,7 @@ const url = "https://public.tableau.com/views/SuperStoreInteractiveDashboard_169
 const vizContainer = document.getElementById('vizContainer');
 const options = {
     hideTabs: true,
-    height: 750,
+    height: 900,
     width: 1450,
     onFirstInteraction: function() {
         workbook = viz.getWorkbook();
