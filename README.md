@@ -3,7 +3,7 @@
 
 I created a custom site via Github codespace and embedded a Tableau Dashboard.
 
-Created custom HTML and JS files to run in github codespace to connect to tableau public dash and embedd in site. 
+Created custom HTML and JS files to run in github codespace to connect to tableau public dash and embedd in site. JS To Fetch and HTML to generate sample site for Demo purposes.
 
 Custom Site with embedded Tableau Dashboard: https://mkomer.github.io/Tableau/
 
